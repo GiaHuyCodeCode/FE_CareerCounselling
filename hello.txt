@@ -1,1 +1,1 @@
-"hello feature-b!" 
+hello feature a and feature b!
